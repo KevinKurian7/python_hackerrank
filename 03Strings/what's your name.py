@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/domains/python?badge_type=python&filters%5Bstatus%5D%5B%5D=solved
+#https://www.hackerrank.com/challenges/whats-your-name/problem
 def print_full_name(a, b):
     print("Hello "+a+" "+ b+"! You just delved into python.")
 
